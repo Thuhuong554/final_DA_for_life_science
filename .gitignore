@@ -205,6 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+models/*
+=======
 # Ignore local conda environment
 Final_DA_.conda_envs/
 
