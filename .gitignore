@@ -1,1 +1,12 @@
-Final_DA.conda_envs/
+# Ignore local conda environment
+Final_DA_.conda_envs/
+
+# Ignore trained models / artifacts
+artifacts/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
