@@ -82,3 +82,4 @@ wcwidth==0.2.14
 datasets
 accelerate
 deepchem
+streamlit
