@@ -20,3 +20,5 @@ class ScreenOut:
     tox: ToxOut
     keep: bool
     reason: str
+    is_valid: bool = True
+    validation_error: str = ""
